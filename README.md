@@ -1,3 +1,3 @@
 # Advisory Boards
 
-This repo is for better organizing adivory board affiliations.
+Volunteer advisory board affiliations.
